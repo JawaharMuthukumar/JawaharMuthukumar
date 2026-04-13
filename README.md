@@ -1,78 +1,63 @@
-<h1 align="center">Hey, I'm Jawahar M 👋</h1>
+<!-- WBB. — White Black Box -->
 
-<p align="center">
-  <b>Founder @ <a href="https://whiteblackbox.in">WBB. — White Black Box</a></b><br/>
-  Software Studio · Websites · AI Apps · Micro-SaaS · Custom Software
-</p>
+<br>
 
-<p align="center">
-  <a href="https://linkedin.com/in/jawahar-wbb"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://whiteblackbox.in"><img src="https://img.shields.io/badge/Website-whiteblackbox.in-000000?style=flat-square&logo=google-chrome&logoColor=white" /></a>
-  <a href="mailto:connect@whiteblackbox.in"><img src="https://img.shields.io/badge/Email-connect@whiteblackbox.in-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-</p>
+```
+WBB. — White Black Box
+```
 
----
+# Jawahar M
 
-## 🏢 About WBB.
-
-> *We build software — Visibly & Invisibly.*
-
-**⬜ White Side** — Our own products, launched publicly, used by the world.  
-**⬛ Black Side** — Your product, built invisibly. No WBB. branding. 100% yours.
-
-We partner with **startup founders**, **solo entrepreneurs**, **product managers**, and **personal brands** who need quality software delivered fast.
+**Founder & Product Developer · Coimbatore, India**  
+*Building software visibly and invisibly since 2026.*
 
 ---
 
-## 🛠️ What I Build
+### The Studio
 
-| Area | Tech |
-|------|------|
-| **Frontend** | HTML · CSS · JavaScript · React |
-| **Mobile & AI Apps** | AI-integrated applications |
-| **UI/UX Design** | Figma · Adobe XD |
-| **Micro-SaaS** | Idea → Launch, end to end |
-| **Automation & Dashboards** | Custom tools & workflows |
+WBB. runs on a dual model — two sides, one standard of quality.
 
----
+| | |
+|---|---|
+| **⬜ White Side** | Our own products — launched publicly under the WBB. name, built to reach people at scale. |
+| **⬛ Black Side** | Your product, fully yours. No WBB. branding. No mention. No trace. Just software delivered. |
 
-## 🚀 Featured Projects
-
-### 🤖 [Virtual Assistant — Jarvis (NLP)](https://github.com/JawaharMuthukumar/Virtual-Assistant---Jarvis-Using-NLP)
-AI-powered voice assistant that processes natural language commands — web search, app control, email, real-time updates. Built with Python + Speech-to-Text + NLP.
-
-### 🍽️ [Click & Make It — AI Meal Maker](https://github.com/JawaharMuthukumar/Click-Make-it)
-Photo or text your ingredients → select a cuisine → get a step-by-step AI-generated recipe. Built with TypeScript.
+We work with **startup founders**, **solo entrepreneurs**, **product managers**, and **personal brands** who need quality software — fast.
 
 ---
 
-## 📈 GitHub Stats
+### Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JawaharMuthukumar&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JawaharMuthukumar&layout=compact&theme=default&hide_border=true" height="150" />
-</p>
+`TypeScript` `React` `Python` `AI Integration` `HTML/CSS` `JavaScript` `Figma` `Adobe XD`
 
 ---
 
-## 🎓 Certifications
+### Selected Work
 
-- 🤖 AI Agent Fundamentals — Anthropic Academy
-- 🔍 Data Classification & Summarization — IBM Granite
-- ⚡ 5-Day AI Agents Intensive — Google
-- 💻 Code Generation & Optimization — IBM Granite
-- 📊 Data Analytics Job Simulation — Deloitte Australia
+**[Click & Make It — AI Meal Maker](https://github.com/JawaharMuthukumar/Click-Make-it)**  
+Photo or type your ingredients, select a cuisine, get a step-by-step AI-generated recipe instantly. `TypeScript`
 
----
-
-## 📬 Let's Build Something
-
-Got an idea? Need a dev partner? Want software built invisibly under your brand?
-
-**📧 connect@whiteblackbox.in · 🌐 [whiteblackbox.in](https://whiteblackbox.in)**
+**[Virtual Assistant — Jarvis (NLP)](https://github.com/JawaharMuthukumar/Virtual-Assistant---Jarvis-Using-NLP)**  
+NLP-powered voice assistant — web search, app control, email, real-time updates. `Python`
 
 ---
 
-<p align="center">
-  <i>"We don't just write code. We take your vision seriously — and we deliver on time."</i>
-</p>
+### Credentials
+
+- AI Agent Fundamentals — *Anthropic Academy*
+- 5-Day AI Agents Intensive — *Google*
+- Data Classification & Summarization — *IBM Granite*
+- Code Generation & Optimization — *IBM Granite*
+- Data Analytics Job Simulation — *Deloitte Australia*
+
+---
+
+### Build Something Together
+
+Founders, entrepreneurs, product teams — let's talk.
+
+**[whiteblackbox.in](https://whiteblackbox.in)** · **[connect@whiteblackbox.in](mailto:connect@whiteblackbox.in)** · **[linkedin/jawahar-wbb](https://linkedin.com/in/jawahar-wbb)**
+
+---
+
+<sub><i>"We don't just write code. We take your vision seriously — and we deliver on time."</i></sub>
